@@ -38,26 +38,6 @@ Conducted data analysis using advanced Excel tools, including Pareto charts and 
 Provided actionable insights to enhance operational efficiency.
 
 
-
----
-
-📊 Featured Projects
-
-Car Price Predictive Analysis Using Machine Learning
-
-Built machine learning models to predict car prices using features like mileage, make, model, and year.
-
-Optimized models using performance metrics such as R-squared and Mean Absolute Error.
-
-
-Weather Prediction Analysis
-
-Developed machine learning algorithms (e.g., Random Forest, SVM) to predict weather conditions.
-
-Analyzed weather patterns to extract actionable insights from historical data.
-
-
-
 ---
 
 🛠 Skills
@@ -68,7 +48,7 @@ Data Analysis & Visualization: Power BI, Matplotlib, Seaborn
 
 Machine Learning: Predictive Modeling, Random Forest, Support Vector Machines
 
-Deep Learning: NLP Techniques
+Deep Learning: NLP Techniques, Computer vision
 
 
 
@@ -88,9 +68,9 @@ Hands-on training in machine learning, data preprocessing, and visualization too
 
 Email: devendratapre@gmail.com
 
-GitHub: DevendraTapare
+GitHub: https://www.github.com/DevendraTapare
 
-LinkedIn: Devendra Tapare
+LinkedIn: https://www.linkedin.com/in/devendra-tapare-3099a5192
 
 
 
