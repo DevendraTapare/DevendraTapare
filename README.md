@@ -6,7 +6,6 @@ Data Scientist | Python | Machine Learning | SQL | Power BI | NLP | Deep Learnin
 Welcome to my GitHub profile! I am a Data Scientist with a strong background in Python programming, SQL, advanced machine learning, deep learning, and natural language processing. Passionate about transforming raw data into actionable insights, I leverage tools like Power BI for business intelligence and predictive modeling to solve complex problems.
 
 
----
 
 # 🚀 About Me
 
@@ -17,9 +16,8 @@ Welcome to my GitHub profile! I am a Data Scientist with a strong background in 
 I specialize in building machine learning models, conducting exploratory data analysis, and developing predictive solutions to improve decision-making processes.
 
 
----
 
-💼 Professional Experience
+# 💼 Professional Experience
 
 ## Graduate Engineering Trainee, Sandvik India Pvt Ltd
 * Designed interactive Power BI dashboards for visualizing and analyzing complex datasets.
@@ -30,9 +28,8 @@ I specialize in building machine learning models, conducting exploratory data an
 * Provided actionable insights to enhance operational efficiency.
 
 
----
 
-🛠 Skills
+# 🛠 Skills
 
 * Programming: Python, SQL
 * Data Analysis & Visualization: Power BI, Matplotlib, Seaborn
@@ -41,26 +38,20 @@ I specialize in building machine learning models, conducting exploratory data an
 
 
 
----
-
-📚 Courses
+# 📚 Courses
 
 * IBM Data Science Professional Certificate (In Progress)
 * Hands-on training in machine learning, data preprocessing, and visualization tools.
 
 
 
----
-
-🌐 Connect with Me
+# 🌐 Connect with Me
 
 * Email: devendratapre@gmail.com
 * GitHub: https://www.github.com/DevendraTapare
 * LinkedIn: https://www.linkedin.com/in/devendra-tapare-3099a5192
 
 
-
----
 
 Feel free to explore my repositories for a deeper insight into my work!
 
