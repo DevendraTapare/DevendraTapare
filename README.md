@@ -1,5 +1,5 @@
-## Hi there 👋
-Devendra Subhash Tapare
+# Hi there 👋
+# Devendra Subhash Tapare
 
 Data Scientist | Python | Machine Learning | SQL | Power BI | NLP | Deep Learning
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a Data Scientist with a strong background in 
 
 ---
 
-🚀 About Me
+# 🚀 About Me
 
 * Current Role: Graduate Engineering Trainee at Sandvik India Pvt Ltd
 * Education: Bachelor of Engineering (Dr. D. Y. Patil College Of Engineering, Pune)
