@@ -40,7 +40,8 @@ I specialize in building machine learning models, conducting exploratory data an
 
 # 📚 Courses
 
-* IBM Data Science Professional Certificate (In Progress)
+* Data Science (IT Education Center, Pune)
+* Complete Data Science, Machine Learning, DL, NLP Bootcamp on Udemy (In Progress)
 * Hands-on training in machine learning, data preprocessing, and visualization tools.
 
 
