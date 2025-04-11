@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I am a Data Scientist with a strong background in 
 
 # 🚀 About Me
 
-* Current Role: Graduate Engineering Trainee at Sandvik India Pvt Ltd
 * Education: Bachelor of Engineering (Dr. D. Y. Patil College Of Engineering, Pune)
 * Interests: Sketching, Singing, Coding
 
@@ -19,10 +18,7 @@ I specialize in building machine learning models, conducting exploratory data an
 
 # 💼 Professional Experience
 
-## Graduate Engineering Trainee, Sandvik India Pvt Ltd
-* Designed interactive Power BI dashboards for visualizing and analyzing complex datasets.
-* Delivered business intelligence solutions by identifying patterns and trends in large datasets.
-
+ 
 ## Diploma Line Engineering Trainee, Tata Motors
 * Conducted data analysis using advanced Excel tools, including Pareto charts and pivot tables.
 * Provided actionable insights to enhance operational efficiency.
