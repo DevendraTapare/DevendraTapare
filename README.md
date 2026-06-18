@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![GitHub](https://img.shields.io/badge/GitHub-devendratapare-181717?style=flat-square&logo=github)](https://github.com/devendratapare)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/devendratapare)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:devendratapre@gmail.com)
 
 </div>
 
