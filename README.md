@@ -117,3 +117,121 @@ I'm always open to collaborating on AI projects, discussing ideas, or just talki
 <div align="center">
 <sub>Built with ❤️ and lots of prompts · Last updated 2026</sub>
 </div>
+
+
+
+
+
+<!--
+**devendratapare/devendratapare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LLM+%26+Agentic+Systems;LangChain+%C2%B7+LangGraph+%C2%B7+RAG+Pipelines;Mechanical+Engineer+%E2%86%92+AI+Builder;Open+to+AI%2FLLM+Engineer+Roles" alt="Typing SVG" />
+
+# Hi, I'm Devendra Tapare 👋
+
+**AI Engineer · LLM & Agentic Systems · Builder of SARTHIK AI**
+
+[![GitHub](https://img.shields.io/badge/GitHub-devendratapare-181717?style=flat-square&logo=github)](https://github.com/devendratapare)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/devendratapare)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:devendratapare@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open_to-AI%2FLLM_Engineer_Roles-34D399?style=flat-square&logo=target&logoColor=white)](https://linkedin.com/in/devendratapare)
+
+</div>
+
+---
+
+## 🤖 About Me
+
+I'm an **AI Engineer** based in Pune, India, building LLM-powered applications and AI agent systems — the practical kind, not just notebooks. My path here started in **Mechanical Engineering** (BE, SPPU), moved through 2 years of SQL-heavy data and reporting work, and is now anchored in **LangChain, LangGraph, and RAG architectures**. That mechanical-to-AI shift means I approach systems the way an engineer approaches a machine: understand every moving part before shipping it.
+
+- 🎯 Actively seeking **AI Engineer / LLM Engineer / GenAI Engineer** roles at product-focused startups
+- 🚧 Building **SARTHIK AI** — enterprise AI agent automation for mid-market Indian businesses (n8n + LangGraph + CrewAI)
+- 🎓 Pursuing an **MBA in Data Science & AI** (Amity University Online, exp. 2027)
+- 🧠 Background: SQL Server pipelines & client reporting → AI/LLM engineering
+- 📍 Pune, Maharashtra, India
+
+---
+
+## 🧰 Tech Stack
+
+**AI / LLM Engineering**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-8B5CF6?style=flat-square&logo=graphql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+
+**Backend & Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**Tools & Platforms**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🩺 **Healthcare RAG Assistant** | RAG-based assistant built at a Mindbowser hackathon to explain diagnostic reports in plain language | FastAPI, ChromaDB, gpt-4o-mini |
+| 🔬 **Multi-Agent Research Pipeline** | Four-agent LangGraph system — search, scrape, write, critique — that turns a topic into a reviewed report | LangGraph, LangChain, Streamlit |
+| ⚖️ [**BMI Calculator App**](https://github.com/DevendraTapare/BMI-Calculator-App) | LangGraph `StateGraph` workflow with a Streamlit UI — built to internalize graph-based state design before scaling to agentic systems | LangGraph, Streamlit, TypedDict |
+| 🤖 **SARTHIK AI** | Enterprise AI agent automation venture deploying n8n + LangGraph agents for mid-market Indian enterprises | n8n, LangGraph, CrewAI |
+
+---
+
+## 📚 Currently Learning
+
+- 🧩 **LLM Agents** — tool use, memory, and multi-agent orchestration
+- 🔍 **Advanced RAG** — hybrid search, re-ranking, chunking strategies, RAGAS evaluation
+- 🧮 **DSA & System Design** — closing the gap for technical interview rounds
+- ☁️ **AI Deployment & MLOps** — taking projects from notebook to production
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Devendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devendratapare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devendratapare&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devendratapare&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+Always open to conversations about LLM applications, agentic workflows, or the realities of breaking into AI from a non-CS background. If you're hiring for an AI/LLM Engineer role or want to collaborate on something real, my inbox is open.
+
+> *"An engineer's job is to understand the system, not just call the API."*
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/devendratapare?style=social)](https://github.com/devendratapare)
+[![Profile views](https://komarev.com/ghpvc/?username=devendratapare&color=blue&style=flat-square)](https://github.com/devendratapare)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Building in public · Pune, India · Last updated 2026</sub>
+</div>
