@@ -185,6 +185,54 @@ I'm an **AI Engineer** based in Pune, India, building LLM-powered applications a
 
 ## 🚀 Featured Projects
 
+<!--## 🏆 Featured Projects
+
+### 🎯 [AI-Powered Image Recognition System](https://github.com/yourusername/project1)
+> Deep learning model achieving 98% accuracy on custom dataset with real-time inference
+
+**Tech Stack:** `PyTorch` `ResNet` `FastAPI` `Docker` `AWS`
+
+- Implemented state-of-the-art CNN architecture with custom data augmentation
+- Optimized model for edge deployment reducing latency by 60%
+- Deployed scalable API serving 10K+ requests/day
+- Achieved 98.5% accuracy on test dataset
+
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat&logo=github&logoColor=white)](https://github.com)
+[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://demo.com)
+
+---
+
+### 💬 [NLP Sentiment Analysis Engine](https://github.com/yourusername/project2)
+> Large-scale sentiment analysis processing millions of social media posts daily
+
+**Tech Stack:** `Transformers` `BERT` `Kubernetes` `Redis` `PostgreSQL`
+
+- Fine-tuned BERT model for multi-class sentiment classification
+- Built distributed processing pipeline handling 5M+ posts/day
+- Implemented real-time analytics dashboard with 95% accuracy
+- Reduced processing time by 70% through optimization
+
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat&logo=github&logoColor=white)](https://github.com)
+[![Article](https://img.shields.io/badge/Read_Article-0A66C2?style=flat&logo=medium&logoColor=white)](https://medium.com)
+
+---
+
+### 📊 [Predictive Analytics Platform](https://github.com/yourusername/project3)
+> ML platform for forecasting business metrics with automated feature engineering
+
+**Tech Stack:** `Scikit-learn` `XGBoost` `Airflow` `PostgreSQL` `Streamlit`
+
+- Developed automated ML pipeline with feature store
+- Implemented ensemble models improving forecast accuracy by 35%
+- Created interactive dashboard for stakeholder insights
+- Integrated A/B testing framework for model validation
+
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=flat&logo=github&logoColor=white)](https://github.com)
+[![Docs](https://img.shields.io/badge/Documentation-4285F4?style=flat&logo=google-docs&logoColor=white)](https://docs.com)
+
+---
+-->
+
 | Project | Description | Stack |
 |---|---|---|
 | 🩺 **Healthcare RAG Assistant** | RAG-based assistant built at a Mindbowser hackathon to explain diagnostic reports in plain language | FastAPI, ChromaDB, gpt-4o-mini |
