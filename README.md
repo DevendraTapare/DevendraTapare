@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <div align="center">
 
 # Hi, I'm Devendra Tapare 👋
@@ -190,7 +190,7 @@ I'm an **AI Engineer** based in Pune, India, building LLM-powered applications a
 | 🩺 **Healthcare RAG Assistant** | RAG-based assistant built at a Mindbowser hackathon to explain diagnostic reports in plain language | FastAPI, ChromaDB, gpt-4o-mini |
 | 🔬 **Multi-Agent Research Pipeline** | Four-agent LangGraph system — search, scrape, write, critique — that turns a topic into a reviewed report | LangGraph, LangChain, Streamlit |
 | ⚖️ [**BMI Calculator App**](https://github.com/DevendraTapare/BMI-Calculator-App) | LangGraph `StateGraph` workflow with a Streamlit UI — built to internalize graph-based state design before scaling to agentic systems | LangGraph, Streamlit, TypedDict |
-| 🤖 **SARTHIK AI** | Enterprise AI agent automation venture deploying n8n + LangGraph agents for mid-market Indian enterprises | n8n, LangGraph, CrewAI |
+<!--| 🤖 **SARTHIK AI** | Enterprise AI agent automation venture deploying n8n + LangGraph agents for mid-market Indian enterprises | n8n, LangGraph, CrewAI | -->
 
 ---
 
@@ -198,7 +198,7 @@ I'm an **AI Engineer** based in Pune, India, building LLM-powered applications a
 
 - 🧩 **LLM Agents** — tool use, memory, and multi-agent orchestration
 - 🔍 **Advanced RAG** — hybrid search, re-ranking, chunking strategies, RAGAS evaluation
-- 🧮 **DSA & System Design** — closing the gap for technical interview rounds
+- 🧮 **System Design** — closing the gap for technical interview rounds
 - ☁️ **AI Deployment & MLOps** — taking projects from notebook to production
 
 ---
